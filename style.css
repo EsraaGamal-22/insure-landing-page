@@ -82,7 +82,10 @@ nav a , button{
   
     transition: all 0.2s;
   }
- 
+ .trigg-btnn
+ {
+     display: none;
+ }
   .top-bar {
     transform: rotate(45deg);
     transform-origin: 10% 10%;
