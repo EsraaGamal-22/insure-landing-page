@@ -28,9 +28,9 @@ h4{
 
 button{
     padding:0.8em 1.5em;
-    color:white;
+    color:hsl(0, 0%, 100%);
     background: transparent;
-    border:1px solid white;
+    border:1px solid hsl(0, 0%, 100%);
 }
 button:hover
 {
@@ -76,7 +76,7 @@ nav a , button{
 
 .navbar-toggle:active ,
 .navbar-toggle:focus{
-    background-color: white !important;
+    background-color: hsl(0, 0%, 100%) !important;
 }
 .icon-bar {
   
